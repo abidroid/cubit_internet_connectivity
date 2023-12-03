@@ -1,4 +1,4 @@
-import 'package:cubit_internet_connectivity/cubits/cubit/internet_cubit.dart';
+import 'package:cubit_internet_connectivity/cubits/internet_cubit/internet_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
